@@ -76,3 +76,15 @@ Quick commands (see `setup.md` for full details):
 - `ios/` — iOS host + native modules
 - `server/` — Groq proxy
 - `web/` — deep link launcher
+
+## Documentation & Artifacts
+- **Setup guide**: [`router-deeplink/setup.md`](router-deeplink/setup.md)
+- **Technical design**: [`router-deeplink/TECHNICAL_DOCUMENT.md`](router-deeplink/TECHNICAL_DOCUMENT.md)
+- **Agent context**: [`router-deeplink/agent/CONTEXT.md`](router-deeplink/agent/CONTEXT.md)
+- **Architecture overview**:
+  - Primary: [`router-deeplink/artifacts/architecture.md`](router-deeplink/artifacts/architecture.md)
+  - Variant: [`router-deeplink/artifacts/artifacts/architecture.md`](router-deeplink/artifacts/artifacts/architecture.md)
+- **Decision log**:
+  - Primary: [`router-deeplink/artifacts/decisions.md`](router-deeplink/artifacts/decisions.md)
+  - Variant: [`router-deeplink/artifacts/artifacts/decisions.md`](router-deeplink/artifacts/artifacts/decisions.md)
+- **Cursor session log** (for reference): [`router-deeplink/agent/agent/cursor_mobile_router_deeplink.md`](router-deeplink/agent/agent/cursor_mobile_router_deeplink.md)
