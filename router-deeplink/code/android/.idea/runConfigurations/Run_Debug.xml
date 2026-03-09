@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Debug" type="AndroidRunConfigurationType" factoryName="Android App">
+    <module name="app" />
+    <option name="DEPLOY" value="true" />
+    <option name="APK_PATH" value="" />
+    <option name="USE_SPLIT_APK" value="false" />
+    <option name="CLEAR_LOGCAT" value="false" />
+    <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+    <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+    <option name="INSTALL_FLAGS" value="" />
+    <method v="2">
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="assembleDebug" externalProjectPath="$PROJECT_DIR$" />
+    </method>
+  </configuration>
+</component>

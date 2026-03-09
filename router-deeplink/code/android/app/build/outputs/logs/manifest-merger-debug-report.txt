@@ -1,0 +1,359 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:1:1-42:12
+MERGED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a81070e754dcd3340c8ccb48d3e40497/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/49dc12deba1d7ecf656fb8bb49a47076/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/7b725232b15637e4b1f9acd4c1916d7d/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/756eb626d572069e625442580d8d15ed/transformed/activity-1.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f8817391b7ebc815c34fd5296de6a56e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f6bdc465f2619c2fff058f1a18c00762/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/cef97d0fda6d4a1d5fdbfa8f6ee94141/transformed/autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0fa8e856e7e2284a55c39755eec09f3/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/06c15ac3e0cf58d56d271960b4998412/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b4797626ed39560262f795087690df7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6d466104f1063e187a47320af48b2106/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ac31cfbcbfa5945481b82dea6e51c217/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6b0dbc8835144f60213cfaf3d7680723/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bb85d0a9ac022e13fd425986ca806b54/transformed/fresco-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/55133344ac7fe17665f6b2bbc0ccdd0b/transformed/imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e7db0bbefb9ead10af68c811bffe6288/transformed/drawee-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bae549cfff5575d8f60400726b358e32/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/eacd7185a083bba0e6638339d5bda573/transformed/memory-type-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9372eff49eb49a09e9872ac6f17775cb/transformed/memory-type-java-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/36642cd8f3ca3c1a83136ced9d314b99/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/1f82b3efd2a81b54400d6374ee12ac72/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/cf4386f7433ff892edcbf3fa363f9fc2/transformed/imagepipeline-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/4958cb21d340b3445de460407d54ce4a/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/4f988a413970d2ad8a1fe8d9e93175e4/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e67c7e8a6eec51c11dd457ef49a8a725/transformed/middleware-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/d30e7f8b87c2701894b07cf02e252880/transformed/ui-common-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9bfd1371068c7b6cf7b33f349c2870c0/transformed/soloader-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/c8501c23e8f2d999422026cc0d40bc99/transformed/fbcore-3.1.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/136774a4c36a76e544221c541ecce328/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bdc14ba57baaca19b278b789ff86de57/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ea930120341b7d4b73998603ee5654b0/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e46184a9616c94761b53312bf95660a6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f8c516b0282a8c9b034cfa091d18f787/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a0cabd07797a455ccc3f3dfb4a0ac7c4/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/1c95498ab7cdd8bc331ed7715f5a9d46/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2165d6d73348e3de0c1f8e3e409be1d3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/7a391d9707e2d212856fc72704518f54/transformed/hermes-android-0.74.3-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/53a58e7c6cf1dd81d4c7e2c1cdd07727/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6679ac9b32ea42cedec607cc9c512666/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/385c54e006108acc7fdb46c55fbc7c5d/transformed/tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/11d55fa10630e2205cad7381c81afa81/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ce6736f5a10affb7903c5b7289277eb6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/0544fd4ff144b8c71441ed1f909eaa74/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9ae51faf26f73bc6f951a51bae06901c/transformed/fbjni-0.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+	package
+		INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:3:3-65
+	android:name
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:3:20-62
+application
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:5:3-41:17
+INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:5:3-41:17
+MERGED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:18:5-22:19
+MERGED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:18:5-22:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6679ac9b32ea42cedec607cc9c512666/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6679ac9b32ea42cedec607cc9c512666/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ce6736f5a10affb7903c5b7289277eb6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ce6736f5a10affb7903c5b7289277eb6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+	android:extractNativeLibs
+		INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:7:5-27
+	android:allowBackup
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:8:5-31
+	android:theme
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:9:5-40
+	android:networkSecurityConfig
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:11:5-65
+	android:usesCleartextTraffic
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:10:5-40
+	android:name
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:6:5-49
+activity#com.example.router.presentation.MainActivity
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:13:5-39:16
+	android:launchMode
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:16:7-38
+	android:exported
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:15:7-30
+	android:name
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:14:7-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:17:7-20:23
+action#android.intent.action.MAIN
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:18:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:19:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:home+data:scheme:routerapp
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:21:7-26:23
+action#android.intent.action.VIEW
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:23:9-68
+	android:name
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:23:19-65
+category#android.intent.category.BROWSABLE
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:24:9-70
+	android:name
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:24:19-67
+data
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:9-64
+	android:host
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:42-61
+	android:scheme
+		ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:15-41
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:explore+data:scheme:routerapp
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:27:7-32:23
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:profile+data:scheme:routerapp
+ADDED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:33:7-38:23
+uses-sdk
+INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:10:5-44
+MERGED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:10:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a81070e754dcd3340c8ccb48d3e40497/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a81070e754dcd3340c8ccb48d3e40497/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/49dc12deba1d7ecf656fb8bb49a47076/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/49dc12deba1d7ecf656fb8bb49a47076/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/7b725232b15637e4b1f9acd4c1916d7d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/7b725232b15637e4b1f9acd4c1916d7d/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/756eb626d572069e625442580d8d15ed/transformed/activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/756eb626d572069e625442580d8d15ed/transformed/activity-1.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f8817391b7ebc815c34fd5296de6a56e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f8817391b7ebc815c34fd5296de6a56e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f6bdc465f2619c2fff058f1a18c00762/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f6bdc465f2619c2fff058f1a18c00762/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/cef97d0fda6d4a1d5fdbfa8f6ee94141/transformed/autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/cef97d0fda6d4a1d5fdbfa8f6ee94141/transformed/autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0fa8e856e7e2284a55c39755eec09f3/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0fa8e856e7e2284a55c39755eec09f3/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/06c15ac3e0cf58d56d271960b4998412/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/06c15ac3e0cf58d56d271960b4998412/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b4797626ed39560262f795087690df7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b4797626ed39560262f795087690df7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6d466104f1063e187a47320af48b2106/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6d466104f1063e187a47320af48b2106/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ac31cfbcbfa5945481b82dea6e51c217/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ac31cfbcbfa5945481b82dea6e51c217/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6b0dbc8835144f60213cfaf3d7680723/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6b0dbc8835144f60213cfaf3d7680723/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bb85d0a9ac022e13fd425986ca806b54/transformed/fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bb85d0a9ac022e13fd425986ca806b54/transformed/fresco-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/55133344ac7fe17665f6b2bbc0ccdd0b/transformed/imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/55133344ac7fe17665f6b2bbc0ccdd0b/transformed/imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e7db0bbefb9ead10af68c811bffe6288/transformed/drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:drawee:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e7db0bbefb9ead10af68c811bffe6288/transformed/drawee-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bae549cfff5575d8f60400726b358e32/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagefilters:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bae549cfff5575d8f60400726b358e32/transformed/nativeimagefilters-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/eacd7185a083bba0e6638339d5bda573/transformed/memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-native:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/eacd7185a083bba0e6638339d5bda573/transformed/memory-type-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9372eff49eb49a09e9872ac6f17775cb/transformed/memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-java:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9372eff49eb49a09e9872ac6f17775cb/transformed/memory-type-java-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/36642cd8f3ca3c1a83136ced9d314b99/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-native:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/36642cd8f3ca3c1a83136ced9d314b99/transformed/imagepipeline-native-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/1f82b3efd2a81b54400d6374ee12ac72/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:memory-type-ashmem:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/1f82b3efd2a81b54400d6374ee12ac72/transformed/memory-type-ashmem-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/cf4386f7433ff892edcbf3fa363f9fc2/transformed/imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/cf4386f7433ff892edcbf3fa363f9fc2/transformed/imagepipeline-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/4958cb21d340b3445de460407d54ce4a/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:nativeimagetranscoder:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/4958cb21d340b3445de460407d54ce4a/transformed/nativeimagetranscoder-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/4f988a413970d2ad8a1fe8d9e93175e4/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/4f988a413970d2ad8a1fe8d9e93175e4/transformed/imagepipeline-base-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e67c7e8a6eec51c11dd457ef49a8a725/transformed/middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:middleware:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e67c7e8a6eec51c11dd457ef49a8a725/transformed/middleware-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/d30e7f8b87c2701894b07cf02e252880/transformed/ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:ui-common:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/d30e7f8b87c2701894b07cf02e252880/transformed/ui-common-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9bfd1371068c7b6cf7b33f349c2870c0/transformed/soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:soloader:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9bfd1371068c7b6cf7b33f349c2870c0/transformed/soloader-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/c8501c23e8f2d999422026cc0d40bc99/transformed/fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fbcore:3.1.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/c8501c23e8f2d999422026cc0d40bc99/transformed/fbcore-3.1.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/136774a4c36a76e544221c541ecce328/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/136774a4c36a76e544221c541ecce328/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bdc14ba57baaca19b278b789ff86de57/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/bdc14ba57baaca19b278b789ff86de57/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ea930120341b7d4b73998603ee5654b0/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ea930120341b7d4b73998603ee5654b0/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e46184a9616c94761b53312bf95660a6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/e46184a9616c94761b53312bf95660a6/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f8c516b0282a8c9b034cfa091d18f787/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/f8c516b0282a8c9b034cfa091d18f787/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a0cabd07797a455ccc3f3dfb4a0ac7c4/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a0cabd07797a455ccc3f3dfb4a0ac7c4/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/1c95498ab7cdd8bc331ed7715f5a9d46/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/1c95498ab7cdd8bc331ed7715f5a9d46/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2165d6d73348e3de0c1f8e3e409be1d3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2165d6d73348e3de0c1f8e3e409be1d3/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/7a391d9707e2d212856fc72704518f54/transformed/hermes-android-0.74.3-debug/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/7a391d9707e2d212856fc72704518f54/transformed/hermes-android-0.74.3-debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/53a58e7c6cf1dd81d4c7e2c1cdd07727/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/53a58e7c6cf1dd81d4c7e2c1cdd07727/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6679ac9b32ea42cedec607cc9c512666/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6679ac9b32ea42cedec607cc9c512666/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/385c54e006108acc7fdb46c55fbc7c5d/transformed/tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/385c54e006108acc7fdb46c55fbc7c5d/transformed/tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/11d55fa10630e2205cad7381c81afa81/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/11d55fa10630e2205cad7381c81afa81/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ce6736f5a10affb7903c5b7289277eb6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/ce6736f5a10affb7903c5b7289277eb6/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/0544fd4ff144b8c71441ed1f909eaa74/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/0544fd4ff144b8c71441ed1f909eaa74/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9ae51faf26f73bc6f951a51bae06901c/transformed/fbjni-0.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fbjni:fbjni:0.6.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/9ae51faf26f73bc6f951a51bae06901c/transformed/fbjni-0.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:16:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:20:13-77
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6679ac9b32ea42cedec607cc9c512666/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/6679ac9b32ea42cedec607cc9c512666/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.router.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.router.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:13:13-57

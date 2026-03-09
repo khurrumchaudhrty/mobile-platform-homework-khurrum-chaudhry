@@ -1,0 +1,52 @@
+plugins {
+  id "com.android.application"
+  id "org.jetbrains.kotlin.android"
+}
+
+android {
+  namespace "com.example.router"
+  compileSdk 34
+  buildFeatures {
+    buildConfig true
+  }
+
+  defaultConfig {
+    applicationId "com.example.router"
+    minSdk 24
+    targetSdk 34
+    versionCode 1
+    versionName "1.0"
+    buildConfigField "String", "GROQ_API_KEY", "\"${System.getenv("GROQ_API_KEY") ?: ""}\""
+  }
+
+  compileOptions {
+    sourceCompatibility JavaVersion.VERSION_17
+    targetCompatibility JavaVersion.VERSION_17
+  }
+
+  kotlinOptions {
+    jvmTarget = "17"
+  }
+
+  packagingOptions {
+    resources {
+      excludes += ["META-INF/*"]
+    }
+  }
+}
+
+dependencies {
+  implementation "androidx.core:core-ktx:1.13.1"
+  implementation "androidx.appcompat:appcompat:1.7.0"
+  implementation "com.facebook.react:react-android:0.74.3"
+  implementation "com.facebook.react:hermes-android:0.74.3"
+  testImplementation "junit:junit:4.13.2"
+  androidTestImplementation "androidx.test.ext:junit:1.2.1"
+  androidTestImplementation "androidx.test.espresso:espresso-core:3.6.1"
+}
+
+tasks.register("deployDebug") {
+  dependsOn("installDebug")
+  group = "deployment"
+  description = "Assemble and install Debug on a connected device/emulator."
+}

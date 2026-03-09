@@ -1,0 +1,212 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.router"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:3:3-65
+11-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:3:20-62
+12    <!--
+13    This manifest file is used only by Gradle to configure debug-only capabilities
+14    for React Native Apps.
+15    -->
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->[com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:16:5-78
+16-->[com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:16:22-75
+17
+18    <permission
+18-->[androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+19        android:name="com.example.router.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.example.router.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:5:3-41:17
+25        android:name="com.example.router.presentation.MainApplication"
+25-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:6:5-49
+26        android:allowBackup="true"
+26-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:8:5-31
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.13.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b180bffb0081417ae206bd412ad80e79/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+28        android:debuggable="true"
+29        android:extractNativeLibs="false"
+30        android:label="Router"
+30-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:7:5-27
+31        android:networkSecurityConfig="@xml/network_security_config"
+31-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:11:5-65
+32        android:testOnly="true"
+33        android:theme="@style/Theme.Router"
+33-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:9:5-40
+34        android:usesCleartextTraffic="true" >
+34-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:10:5-40
+35        <activity
+35-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:13:5-39:16
+36            android:name="com.example.router.presentation.MainActivity"
+36-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:14:7-48
+37            android:exported="true"
+37-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:15:7-30
+38            android:launchMode="singleTask" >
+38-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:16:7-38
+39            <intent-filter>
+39-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:17:7-20:23
+40                <action android:name="android.intent.action.MAIN" />
+40-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:18:9-61
+40-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:18:17-58
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:19:9-69
+42-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:19:19-66
+43            </intent-filter>
+44            <intent-filter>
+44-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:21:7-26:23
+45                <action android:name="android.intent.action.VIEW" />
+45-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:22:9-61
+45-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:22:17-58
+46
+47                <category android:name="android.intent.category.DEFAULT" />
+47-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:23:9-68
+47-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:23:19-65
+48                <category android:name="android.intent.category.BROWSABLE" />
+48-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:24:9-70
+48-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:24:19-67
+49
+50                <data
+50-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:9-64
+51                    android:host="home"
+51-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:42-61
+52                    android:scheme="routerapp" />
+52-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:15-41
+53            </intent-filter>
+54            <intent-filter>
+54-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:27:7-32:23
+55                <action android:name="android.intent.action.VIEW" />
+55-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:22:9-61
+55-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:22:17-58
+56
+57                <category android:name="android.intent.category.DEFAULT" />
+57-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:23:9-68
+57-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:23:19-65
+58                <category android:name="android.intent.category.BROWSABLE" />
+58-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:24:9-70
+58-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:24:19-67
+59
+60                <data
+60-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:9-64
+61                    android:host="explore"
+61-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:42-61
+62                    android:scheme="routerapp" />
+62-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:15-41
+63            </intent-filter>
+64            <intent-filter>
+64-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:33:7-38:23
+65                <action android:name="android.intent.action.VIEW" />
+65-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:22:9-61
+65-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:22:17-58
+66
+67                <category android:name="android.intent.category.DEFAULT" />
+67-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:23:9-68
+67-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:23:19-65
+68                <category android:name="android.intent.category.BROWSABLE" />
+68-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:24:9-70
+68-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:24:19-67
+69
+70                <data
+70-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:9-64
+71                    android:host="profile"
+71-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:42-61
+72                    android:scheme="routerapp" />
+72-->/Users/khurrum.chaudhry/Downloads/router-deeplink/code/android/app/src/main/AndroidManifest.xml:25:15-41
+73            </intent-filter>
+74        </activity>
+75        <activity
+75-->[com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:19:9-21:40
+76            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+76-->[com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:20:13-77
+77            android:exported="false" />
+77-->[com.facebook.react:react-android:0.74.3] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/2bd450afab32bd252be197f108df5457/transformed/react-android-0.74.3-debug/AndroidManifest.xml:21:13-37
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+81            android:authorities="com.example.router.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.3.0] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b343a99fb51e64cec123d50254fc1b7c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/b0531a0a22cd34df4eba57a4e90b206f/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+89            <meta-data
+89-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+90                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+90-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+91                android:value="androidx.startup" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+92        </provider>
+93
+94        <receiver
+94-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+95            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+95-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+96            android:directBootAware="false"
+96-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+97            android:enabled="true"
+97-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+98            android:exported="true"
+98-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+99            android:permission="android.permission.DUMP" >
+99-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+101                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+101-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+102            </intent-filter>
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+104                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+104-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+105            </intent-filter>
+106            <intent-filter>
+106-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+107                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+107-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+108            </intent-filter>
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+110                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+110-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/fd2369bf9c62d6beab9610a769b6c398/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+111            </intent-filter>
+112        </receiver>
+113
+114        <meta-data
+114-->[com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+115            android:name="com.facebook.soloader.enabled"
+115-->[com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:13:13-57
+116            android:value="false" />
+116-->[com.facebook.soloader:soloader:0.10.5] /Users/khurrum.chaudhry/.gradle/caches/9.0.0/transforms/a3ced9ca42f0c6a60bd1d31d2b2edab8/transformed/soloader-0.10.5/AndroidManifest.xml:14:13-34
+117    </application>
+118
+119</manifest>
