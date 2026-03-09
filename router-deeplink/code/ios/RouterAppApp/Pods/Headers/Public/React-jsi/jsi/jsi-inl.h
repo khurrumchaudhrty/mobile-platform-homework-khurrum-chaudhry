@@ -1,0 +1,1 @@
+../../../../../../../app/node_modules/react-native/ReactCommon/jsi/jsi/jsi-inl.h

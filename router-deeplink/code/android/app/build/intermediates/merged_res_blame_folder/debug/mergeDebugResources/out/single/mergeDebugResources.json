@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.router.app-debug-28:/xml_network_security_config.xml.flat",
+        "source": "com.example.router.app-main-30:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/khurrum.chaudhry/.gradle/daemon/9.0.0/com.example.router.app-debug-28:/drawable_launch_screen.xml.flat",
+        "source": "/Users/khurrum.chaudhry/.gradle/daemon/9.0.0/com.example.router.app-main-30:/drawable/launch_screen.xml"
+    }
+]

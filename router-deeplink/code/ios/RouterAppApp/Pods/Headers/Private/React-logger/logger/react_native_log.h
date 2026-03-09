@@ -1,0 +1,1 @@
+../../../../../../../app/node_modules/react-native/ReactCommon/logger/react_native_log.h

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_accent">#7AC7FF</color>
+    <color name="splash_bg">#0E1B2A</color>
+    <style name="Theme.Router" parent="Theme.AppCompat.NoActionBar">
+    <item name="android:windowBackground">@drawable/launch_screen</item>
+  </style>
+</resources>

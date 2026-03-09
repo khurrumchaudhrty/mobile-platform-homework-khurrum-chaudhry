@@ -1,0 +1,36 @@
+require "pathname"
+
+podfile_dir = File.dirname(File.realpath(__FILE__))
+react_native_path = File.realpath(File.expand_path("../../app/node_modules/react-native", podfile_dir))
+app_path = File.realpath(File.expand_path("../../app", podfile_dir))
+
+react_native_path = "/#{react_native_path}" unless react_native_path.start_with?("/")
+app_path = "/#{app_path}" unless app_path.start_with?("/")
+
+require "#{react_native_path}/scripts/react_native_pods"
+require File.expand_path("../@react-native-community/cli-platform-ios/native_modules", react_native_path)
+
+platform :ios, '15.0'
+
+target 'RouterAppApp' do
+  react_native_path_for_pods = Pathname.new(react_native_path)
+    .relative_path_from(Pathname.new(Pod::Config.instance.installation_root))
+    .to_s
+
+  use_react_native!(
+    :path => react_native_path_for_pods,
+    :app_path => app_path
+  )
+
+  post_install do |installer|
+    react_native_post_install(installer)
+
+    # Ensure Pods use app's React Native path (fixes hermes script path)
+    installer.pods_project.targets.each do |target|
+      target.build_configurations.each do |config|
+        config.build_settings['REACT_NATIVE_PATH'] = react_native_path
+        config.build_settings['NODE_BINARY'] = '/opt/homebrew/bin/node'
+      end
+    end
+  end
+end
